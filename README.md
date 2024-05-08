@@ -26,4 +26,6 @@ Put this in `content` in the tailwind config file:
 
 Put 3 tailwind directives inside global css file `index.css`.
 
+https://playground.solidjs.com/
+
 <br>
