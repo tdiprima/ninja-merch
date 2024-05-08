@@ -1,4 +1,4 @@
-import banner from './assets/banner.png'
+import banner from './assets/banner.png';
 import Card from './components/Card';
 
 function App() {
@@ -8,7 +8,7 @@ function App() {
         <h1>Ninja Merch</h1>
       </header>
 
-      <img src="{banner}" alt="site banner" />
+      <img src={banner} alt="site banner" />
 
       <Card />
     </div>
