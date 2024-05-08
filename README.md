@@ -10,3 +10,20 @@ npm run dev
 ```
 
 http://localhost:3000/
+
+https://tailwindcss.com/docs/guides/solidjs
+
+```sh
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+```
+
+Put this in `content` in the tailwind config file:
+
+```
+"./src/**/*.{js,jsx,ts,tsx}"
+```
+
+Put 3 tailwind directives inside global css file `index.css`.
+
+<br>
