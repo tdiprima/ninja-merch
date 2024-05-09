@@ -16,9 +16,9 @@ function App() {
     <div class="container m-auto bg">
       <header
         class="my-4 p-2 text-xl flex items-center gap-4 justify-end"
-        classList={{"bg-neutral-900": darkTheme(), "text-white": darkTheme() }}
+        classList={{ "bg-neutral-900": darkTheme(), "text-white": darkTheme() }}
       >
-        <span 
+        <span
           class="material-symbols-outlined cursor-pointer"
           onClick={toggleTheme}
         >light_mode</span>
