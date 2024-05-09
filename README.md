@@ -42,4 +42,15 @@ npm i -D @solidjs/router
 
 Wrap the `<Router>` component around the root `<App />` component in `index.jsx`.  Import Router.  Then set up routes inside the app component.
 
+## Fetching data
+
+[json-server](https://www.npmjs.com/package/json-server) &mdash; watch a json file locally and wrap with api endpoints
+
+So we can treat it like an api and fetch it from our components.
+
+```sh
+npm i -g json-server
+json-server 
+```
+
 <br>
