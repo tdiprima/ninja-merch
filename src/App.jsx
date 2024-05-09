@@ -23,7 +23,7 @@ function App() {
           <h2>Ninja Tee, white</h2>
           <button class="btn">view</button>
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid, expedita?</p>
-          <p>Only £10</p>
+          <p>Only &pound;10</p>
         </Card>
 
       </div>
