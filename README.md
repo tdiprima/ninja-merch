@@ -50,7 +50,7 @@ So we can treat it like an api and fetch it from our components.
 
 ```sh
 npm i -g json-server
-json-server 
+json-server -w -p 4000 ./data/db.json
 ```
 
 <br>
